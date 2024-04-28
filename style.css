@@ -1,0 +1,22 @@
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 12px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #a43d3d;
+  }
